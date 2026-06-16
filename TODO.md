@@ -1,0 +1,6 @@
+# TODO: Fix Profile Update "Not Found" Error
+
+## Steps to Complete:
+- [x] Update `/profile` route in `app.py` to fetch and pass user data dynamically
+- [x] Update `templates/profile.html` to display dynamic user data instead of static content
+- [x] Test the changes by running the app and verifying profile updates work correctly
